@@ -1,7 +1,7 @@
 # Javaica Dev students' group
 
 Основная информация:
-* Примерный roadmap (coming soon...)
+* [Примерный roadmap](roadmap.md)
 
 Учебные проекты:
 1. [Media player using JavaFX](projects/mp3playerjfx.md)
