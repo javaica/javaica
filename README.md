@@ -8,3 +8,12 @@
 
 (Недо)гайды:
 1. [JavaFX basics](guides/javafx.md)
+
+Полезные ссылки:
+1. Basics:
+   * [Важная инфа про версии Java, JRE и JDK](https://m.habr.com/ru/post/488144/)
+2. Spring Boot:
+   * https://baeldung.com - один из лучших сайтов по Spring Framework и Spring Boot
+   * [Официальная дока по Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+   * [Официальный сайт Spring](https://spring.io)
+   * [Spring на русском - часть вещей немного устарела, но в целом хорошие материалы](https://spring-projects.ru)
