@@ -2,7 +2,7 @@
 
 _Work in process..._
 
-0. English
+0 - English
 
 1. **Basics**
    1. Syntax
@@ -50,4 +50,4 @@ _Work in process..._
 ...
 
 ## Полезные ссылки:
-* [Самый популярный roadmap backend-разработчика](https://roadmap.sh/backend)
+* [Roadmap backend-разработчика](https://roadmap.sh/backend)
