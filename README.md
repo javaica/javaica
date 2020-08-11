@@ -17,3 +17,5 @@
    * [Официальная дока по Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
    * [Официальный сайт Spring](https://spring.io)
    * [Spring на русском - часть вещей немного устарела, но в целом хорошие материалы](https://spring-projects.ru)
+3. Прочее:
+   * [Семантическое версионирование](https://semver.org/lang/ru/)
