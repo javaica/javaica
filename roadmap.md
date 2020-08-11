@@ -32,12 +32,13 @@ _Work in process..._
    4. Understanding application configuration
    5. Spring Security basics
 6. **Testing**
-   * JUnit 4, 5
-   * API testing with JUnit
+   * JUnit/TestNG
+   * API testing
    * API testing with Postman
 6. **Advanced tools**
    1. Lombok
    2. Java modules (Project Jigsaw)
+   3. Reflection API
 7. **Spring Framework**
    1. Understanding app configuration without Boot autoconfig modules
    2. Simple projects without Spring Boot
