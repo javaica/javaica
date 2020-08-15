@@ -2,6 +2,7 @@
 
 Основная информация:
 * [Примерный roadmap](roadmap.md)
+* [Полезная литература](literature.md)
 
 Учебные проекты:
 1. [Media player using JavaFX](projects/mp3playerjfx.md)
