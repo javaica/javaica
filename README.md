@@ -9,6 +9,7 @@
 
 (Недо)гайды:
 1. [JavaFX basics](guides/javafx.md)
+2. [Системы сборки](guides/build-tools.md) (Краткое описание, гайд по Maven)
 
 Полезные ссылки:
 1. Basics:
