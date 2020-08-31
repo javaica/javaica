@@ -150,7 +150,7 @@ OpenJFX 11+, наследник убранного из JDK JavaFX начина�
   <plugins>
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
-      <artifactId>maven-shaded-plugin</artifactId>
+      <artifactId>maven-shade-plugin</artifactId>
       <executions>
         <execution>
           <phase>package</phase>
@@ -165,9 +165,6 @@ OpenJFX 11+, наследник убранного из JDK JavaFX начина�
                 </mainClass>
               </transformer>
             </transformers>
-            <createDependencyReducedPom>
-              false
-            </createDependencyReducedPom>
           </configuration>
         </execution>
       </executions>
