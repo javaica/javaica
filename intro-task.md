@@ -39,4 +39,5 @@
 
  ## Уровень Ахуеть какой сектант (Senior Sectarian)
 
- Реализация уровня Middle Sectarian на Java EE без использования Spring
+Реализация задачи уровня Middle Sectarian + система авторизации
+и проверки доступа к задачам с использованием Spring Security
