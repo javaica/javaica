@@ -4,6 +4,7 @@
 1. Shildt H. - Java. A Beginner's Guide (Шилдт Г. - Java. Руководство для начинающих)
 
 Средний уровень:
+1. Effective Java
 1. Pro Spring 5  (полностью изучить сложно, но пролистать и выхватить интересные места, а потом возвращаться по надобности)
 2. Pro Spring Boot 2 (аналогично)
 3. Marten Deinum - Spring Boot 2 Recipes 
