@@ -25,6 +25,7 @@ Java backend-разработки.
    * [Важная инфа про версии Java, JRE и JDK](https://m.habr.com/ru/post/488144/)
    * [Правила наименования всего](https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html)
    * [Регулярные выражения](https://javarush.ru/groups/posts/regulyarnye-vyrazheniya-v-java)
+   * [Style guide от Google](https://google.github.io/styleguide/javaguide.html)
 2. Spring Boot:
    * https://baeldung.com - один из лучших сайтов по Spring Framework и Spring Boot
    * [Официальная дока по Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
